@@ -9,7 +9,7 @@
     "build": "tsc",
     "prestart": "npm run build",
     "start": "node .",
-    "dev": "ts-node-dev src/index.ts"
+    "dev": "ts-node-dev app/index.ts"
   },
   "keywords": [],
   "author": "",

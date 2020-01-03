@@ -16,9 +16,9 @@
     }
   },
   "include": [
-    "src/**/*"
+    "app/**/*"
   ],
   "exclude": [
-    "src/client"
+    "app/client"
   ]
 }
